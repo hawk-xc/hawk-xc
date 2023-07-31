@@ -10,7 +10,7 @@
 
 ## 📝 About Me
 New people who still learning <br>
-<li> 🧑 I'am Tri </li>
+<li> 🧑 I'am @hawk-xc </li>
 <li> ‍💻 I Love Linux </li>
 <li> 👨‍💻 Learning Cyber Security </li>
 <li> 📝 Web Design, Web Programming </li>
