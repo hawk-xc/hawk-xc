@@ -1,12 +1,11 @@
+<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hallo Apa kabar! </h2>
+<h3> Ini adalah Repository Saya 👋 </h3>
 - 👋 Hi, I’m @hawk-xc
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 👤 check it my profile in https://hawk-xc.github.io
-
-<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hallo Apa kabar! </h2>
-<h3> Ini adalah Repository Saya 👋 </h3>
 
 ## 📝 About Me
 New people who still learning <br>
