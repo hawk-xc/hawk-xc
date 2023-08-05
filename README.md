@@ -25,5 +25,5 @@ hawk-xc/hawk-xc is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ## sawer dong bang
-<img src="![hawkxcsaweria](https://github.com/hawk-xc/my-certificate/assets/92193431/cd09c01d-7a41-40f1-952d-b0ce3ed99994)
+<img src="https://github.com/hawk-xc/my-certificate/assets/92193431/cd09c01d-7a41-40f1-952d-b0ce3ed99994
 " style="background: white; padding: 0.6rem;"></img>
