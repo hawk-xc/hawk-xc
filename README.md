@@ -5,6 +5,7 @@
 <li>🌱 I’m currently learning ...</li>
 <li>💞️ I’m looking to collaborate on ...</li>
 <li>📫 How to reach me ...</li>
+<li>💰 Buy Me a Coffee - https://saweria.co/hawkxc68</li>
 <li>👤 check it my profile in https://hawk-xc.github.io</li>
 
 ## 📝 About Me
@@ -26,4 +27,3 @@ You can click the Preview link to take a look at your changes.
 --->
 ## sawer dong bang
 [![sawer dong bang](https://github.com/hawk-xc/hawk-xc/assets/92193431/567138be-6b52-4016-9b6f-ffe438a58d5e)](https://saweria.co/hawkxc68)
-https://saweria.co/hawkxc68
