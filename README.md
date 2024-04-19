@@ -18,7 +18,9 @@ New people who still learning <br>
 <li> ✨ MikroTik Networking </li>
 <li> ⏳ Work As Network Operation Center at ISP tier 2 </li>
 
-<p align="left" margin-top="10px"> 
+<p></p>
+<p></p>
+<p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=hawk-xc&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="hawk-xc" />&nbsp;&nbsp;
 </p>
 
