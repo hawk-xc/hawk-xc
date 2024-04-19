@@ -1,7 +1,7 @@
 <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hallo Apa kabar! </h2>
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=george0st&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="george0st" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=hawk-xc&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="hawk-xc" />&nbsp;&nbsp;
 </p>
 
 
