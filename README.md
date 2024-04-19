@@ -6,7 +6,6 @@
 
 
 <h3> Ini adalah Repository Saya 👋 </h3>
-![Profile views counter](https://komarev.com/ghpvc/?username=hawk-xc-git&style=flat-square)
 <li>👋 Hi, I’m @hawk-xc</li> 
 <li>👀 I’m interested in ...</li>
 <li>🌱 I’m currently learning ...</li>
