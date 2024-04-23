@@ -1,4 +1,4 @@
-<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Iam Hawk-xc! <img src="https://komarev.com/ghpvc/?username=hawk-xc&color=blueviolet" alt="Profile views" /></h2>
+<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Iam Hawk-xc!</h2>
 
 <h3> Ini adalah Repository Saya 👋 </h3>
 <li>👋 Hi, I’m @hawk-xc</li> 
