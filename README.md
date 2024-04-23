@@ -21,7 +21,7 @@ New people who still learning <br>
 <p></p>
 <p></p>
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=hawk-xc&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="hawk-xc" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=hawk-xc&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="hawk-xc](https://github-readme-stats.vercel.app/api?username=hawk-xc&custom_title=hawk-xc%27s%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent%22%20alt=%22hawk-xc%22%20/%3E&nbsp;&nbsp;%3Cimg%20height=%22200px%22%20src=%22./images/k4_sm.png)" />&nbsp;&nbsp;
 </p>
 
 ## 🛠 Web Development And Tools
