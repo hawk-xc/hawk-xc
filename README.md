@@ -1,4 +1,5 @@
 <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Iam Hawk-xc!</h2>
+![image](https://github.com/user-attachments/assets/a248a767-f1d1-4ab7-b51a-729884468c58)
 
 <h3> Ini adalah Repository Saya 👋 </h3>
 <li>👋 Hi, I’m @hawk-xc</li> 
