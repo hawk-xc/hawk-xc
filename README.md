@@ -1,5 +1,4 @@
 <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Iam Hawk-xc!</h2>
-[![hawk-xc](https://github.com/user-attachments/assets/8be1d14b-de83-4b79-96ff-0067416a7449)](https://hawkxc.vercel.app)
 
 <h3> Ini adalah Repository Saya 👋 </h3>
 <li>👋 Hi, I’m @hawk-xc</li> 
