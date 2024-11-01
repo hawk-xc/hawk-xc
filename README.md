@@ -15,7 +15,7 @@ const hawkxc = {
       ability: [Cyber Security, Network Engineer, Fullstack Dev, System Administrator, IT Support],
       education: "Anywhere"
   },
- challenge: "Make Bangkit Capstone Project and some Freelance Work"
+ challenge: "Make Bangkit Capstone Project and Complete all my Freelance Work"
 }
 ```
 
