@@ -10,9 +10,9 @@ const hawkxc = {
   tools: [React, Node, Docker, Apache JMeter, Laravel 11, Flutter, Express],
   architecture: ["microservices", "event-driven", "design system pattern"],
   other: {
-                        ability: [Cyber Security, Network Engineer, Fullstack Dev, System Administrator, IT Support],
-                        education: "Anywhere"
-                      },
+      ability: [Cyber Security, Network Engineer, Fullstack Dev, System Administrator, IT Support],
+      education: "Anywhere"
+  },
  challenge: "Make Bangkit Capstone Project and some Freelance Work"
 }
 ```
