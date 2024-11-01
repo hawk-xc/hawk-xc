@@ -8,11 +8,11 @@ const hawkxc = {
   auth_token: '1qJpvpPwJmxcYTXieHjXMOgYOw0_3ghVXoVmJ6Nsq36tG8UPm',
   portofolio: ['https://hawkxc.vercel.app', 'https://hawk-xc.github.io'],
   pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, PHP, CSS, Python, Dart, MySQL],
-  tools: [React, Node, Docker, Apache JMeter, Laravel 11, Flutter, Express],
+  code: ['Javascript', 'Typescript', 'HTML', 'PHP', 'CSS', 'Python', 'Dart', 'MySQL'],
+  tools: ['React', 'Node', 'Docker', 'Apache JMeter', 'Laravel 11', 'Flutter', 'Express', 'Codeigniter'],
   architecture: ["microservices", "event-driven", "design system pattern"],
   other: {
-      ability: [Cyber Security, Network Engineer, Fullstack Dev, System Administrator, IT Support],
+      ability: ['Cyber Security', 'Network Engineer', 'Fullstack Dev', 'System Administrator', 'IT Support', 'Graphic Design', 'Video Editor'],
       education: "Anywhere"
   },
  challenge: "Make Bangkit Capstone Project and Complete all my Freelance Work"
