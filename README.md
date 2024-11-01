@@ -16,8 +16,6 @@ const hawkxc = {
  challenge: "Make Bangkit Capstone Project and some Freelance Work"
 }
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra\&locale=es)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawk-xc\&layout=compact)
 
 ```text
 JavaScript               32 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
@@ -26,3 +24,6 @@ CSS                      7 repos             ██░░░░░░░░░�
 Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
+
+## Statistic
+![Hawk-xc's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawk-xc\&rank_icon=github)
