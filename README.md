@@ -16,3 +16,11 @@ const hawkxc = {
  challenge: "Make Bangkit Capstone Project and some Freelance Work"
 }
 ```
+
+```text
+JavaScript               32 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
+TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+```
