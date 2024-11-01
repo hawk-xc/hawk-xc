@@ -17,7 +17,7 @@ const hawkxc = {
 }
 ```
 ![Hawk-xc's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawk-xc&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawk-xc\&layout=donut)](https://github.com/hawk-xc/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawk-xc\&layout=compact)
 
 ```text
 JavaScript               32 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
