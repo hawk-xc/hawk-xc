@@ -16,6 +16,7 @@ const hawkxc = {
  challenge: "Make Bangkit Capstone Project and some Freelance Work"
 }
 ```
+![Hawk-xc's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawk-xc&show_icons=true&theme=radical)
 
 ```text
 JavaScript               32 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
