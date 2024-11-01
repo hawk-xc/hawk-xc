@@ -16,7 +16,7 @@ const hawkxc = {
  challenge: "Make Bangkit Capstone Project and some Freelance Work"
 }
 ```
-![Hawk-xc's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawk-xc&show_icons=true&theme=radical)
+![Hawk-xc's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawk-xc\&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawk-xc\&layout=compact)
 
 ```text
