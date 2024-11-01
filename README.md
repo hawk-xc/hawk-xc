@@ -1,16 +1,18 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+const hawkxc = {
+  status: 200,
+  name: 'hawk-xc',
+  codebase: 1121,
+  pronouns: "He" | "Him",
+  code: [Javascript, Typescript, HTML, PHP, CSS, Python, Dart, MySQL],
+  tools: [React, Node, Docker, Apache JMeter, Laravel 11, Flutter, Express],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+  other: {
+                        ability: [Cyber Security, Network Engineer, Fullstack Dev, System Administrator, IT Support],
+                        education: "Anywhere"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "Make Bangkit Capstone Project and some Freelance Work"
 }
 ```
