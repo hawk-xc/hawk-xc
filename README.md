@@ -5,6 +5,8 @@ const hawkxc = {
   status: 200,
   name: 'hawk-xc',
   codebase: 1121,
+  auth_token: '1qJpvpPwJmxcYTXieHjXMOgYOw0_3ghVXoVmJ6Nsq36tG8UPm',
+  portofolio: ['https://hawkxc.vercel.app', 'https://hawk-xc.github.io'],
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, PHP, CSS, Python, Dart, MySQL],
   tools: [React, Node, Docker, Apache JMeter, Laravel 11, Flutter, Express],
