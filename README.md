@@ -1,6 +1,5 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
-# :sparkling\_heart: Support the project
+### :sparkling\_heart: Support the project
 
 I open-source almost everything I can and try to reply to everyone needing help using these projects. Obviously,
 this takes time. You can use this service for free.
