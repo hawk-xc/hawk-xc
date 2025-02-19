@@ -1,4 +1,4 @@
-###  <a href="https://hawkxc.vercel.app/">A little more about me...</a>
+<a href="https://hawkxc.vercel.app/" style="text-center">A little more about me...</a>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Support the project
 
 I open-source almost everything I can and try to reply to everyone needing help using these projects. Obviously,
