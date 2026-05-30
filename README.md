@@ -22,3 +22,52 @@
          \/____/                  \/____/                  ~~                       \|___|                  ~~                       \/____/         
                                                                                                                                                      
 ```
+
+```bash
+$ whoami
+
+Mr. Hawk
+Backend Engineer | Fullstack Developer | Linux Enthusiast
+
+> Building APIs, automating systems, and solving real-world problems.
+```
+
+```yaml
+current_focus:
+  - System Architecture
+  - REST API Development
+  - Golang
+  - Cloud Infrastructure
+
+tech_stack:
+  backend:
+    - Laravel
+    - Golang
+    - PHP
+
+  frontend:
+    - React
+    - TailwindCSS
+
+  database:
+    - PostgreSQL
+    - MySQL
+    - Redis
+
+  devops:
+    - Docker
+    - Linux
+    - Nginx
+```
+
+```http
+GET /status
+
+HTTP/1.1 200 OK
+
+{
+  "learning": ["System Design", "Cloud Native"],
+  "building": ["Warehouse System", "Fleet Management"],
+  "coffee": true
+}
+```
